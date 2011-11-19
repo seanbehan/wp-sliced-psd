@@ -14,4 +14,7 @@ At the moment the plugin looks for files to be inside of a Sliced/ directory in 
 You are a designer that doesn't know html. You know Photoshop and want to convert your PSD to HTML. 
 If you use the Photoshop slice tool it will convert it to HTML for you, however, you'll still need to 
 deploy it somewhere. This isn't hard to do, but it can be slightly automated with this plugin (and store
-all your html/image references in a database). 
+all your html/image references in the Wordpress database).
+
+Great for email marketing campaigns that you want to highlight on the "homepage" each with their own permalink
+so old campaigns won't expire. 
