@@ -8,3 +8,10 @@ The theme in themes/sliced_psd is an "empty" theme. If you use it with the plugi
 a stand alone instance of wordpress, you should see your last uploaded sliced PSD (converted to HTML) as the home page.
 
 At the moment the plugin looks for files to be inside of a Sliced/ directory in the zip file.
+
+## Use Case
+
+You are a designer that doesn't know html. You know Photoshop and want to convert your PSD to HTML. 
+If you use the Photoshop slice tool it will convert it to HTML for you, however, you'll still need to 
+deploy it somewhere. This isn't hard to do, but it can be slightly automated with this plugin (and store
+all your html/image references in a database). 
