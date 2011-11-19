@@ -1,14 +1,15 @@
 <?php
+
 /**
- * parses html, cleans html output for email marketing templates
- * to be used inside the loop, var $html is get_the_content() inside the loop   
+ * any necessary html cleanup can happen here...
  */
+
 function print_the_content( $html = "" ){
 	$html	= trim($html);
 	print "<div class='contentpost'>{$html}</div>";
 }
-?>
-<title><?php the_title(); ?> : <?php bloginfo('name'); ?></title>
+
+?><title><?php the_title(); ?> : <?php bloginfo('name'); ?></title>
 <style type="text/css" media="screen">
     body .content_post p {
 	    line-height: 1.5em;
