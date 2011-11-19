@@ -1,2 +1,0 @@
-<?php
-// nothin' doin'
