@@ -3,7 +3,7 @@
 /*
 Plugin Name: Zip2Post
 Plugin URI: http:/seanbehan.com/
-Description: Upload a slice/zip file exported from Dreamweaver/Photoshop and save it as a post. Use in conjunction with raw_output theme
+Description: Upload a slice/zip file exported from Dreamweaver/Photoshop and save it as a WP post.
 Version: 0.1.0
 Author: Sean Behan
 Author URI: http://seanbehan.com 
